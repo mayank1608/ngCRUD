@@ -1,4 +1,6 @@
-# NgCrud
+# NgCRUD
+
+A small Angular App for Creating, Reading, Updating and Deleting User in Firebase DB. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
